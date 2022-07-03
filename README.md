@@ -1,4 +1,4 @@
-# page_login
+# Página de login.
 Página de login usando HTML e CSS com base no que já havia aprendido.
 
 PREVIEW DA PÁGINA:
